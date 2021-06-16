@@ -2,7 +2,7 @@
   > https://docs.conda.io/en/latest/miniconda.html
   > conda config --set channel_priority strict
   > conda install <package-name>
-  ### Don't set Anaconda to PATH you should just use the Anaconda Prompt Application
+## Don't set Anaconda to PATH you should just use the Anaconda Prompt Application
   > Press windows and search for "Anaconda Prompt"
 ## Update Anaconda
   > conda update conda
